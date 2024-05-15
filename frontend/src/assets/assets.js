@@ -84,7 +84,7 @@ export const assets = {
 
 export const menu_list = [
     {
-        menu_name: "Salad",
+        menu_name: "Biriyani",
         menu_image: menu_1
     },
     {
@@ -119,33 +119,33 @@ export const menu_list = [
 export const food_list = [
     {
         _id: "1",
-        name: "Greek salad",
+        name: "Chicken Biriyani", 
         image: food_1,
         price: 12,
         description: "Food provides essential nutrients for overall health and well-being",
-        category: "Salad"
+        category: "Biriyani"
     },
     {
         _id: "2",
-        name: "Veg salad",
+        name: "Mutton Biriyani",
         image: food_2,
         price: 18,
         description: "Food provides essential nutrients for overall health and well-being",
-        category: "Salad"
+        category: "Biriyani"
     }, {
         _id: "3",
-        name: "Clover Salad",
+        name: "Prawn Biriyani",
         image: food_3,
         price: 16,
         description: "Food provides essential nutrients for overall health and well-being",
-        category: "Salad"
+        category: "Biriyani"
     }, {
         _id: "4",
-        name: "Chicken Salad",
+        name: "Fish Biriyani",
         image: food_4,
         price: 24,
         description: "Food provides essential nutrients for overall health and well-being",
-        category: "Salad"
+        category: "Biriyani"
     }, {
         _id: "5",
         name: "Lasagna Rolls",
@@ -213,7 +213,7 @@ export const food_list = [
     },
     {
         _id: "14",
-        name: "Vegan Sandwich",
+        name: "Panner Sandwich",
         image: food_14,
         price: 18,
         description: "Food provides essential nutrients for overall health and well-being",
@@ -241,7 +241,7 @@ export const food_list = [
         category: "Cake"
     }, {
         _id: "18",
-        name: "Vegan Cake",
+        name: "Starwberry Cake",
         image: food_18,
         price: 12,
         description: "Food provides essential nutrients for overall health and well-being",
@@ -334,14 +334,14 @@ export const food_list = [
         category: "Noodles"
     }, {
         _id: "31",
-        name: "Somen Noodles",
+        name: "Dragon Noodles",
         image: food_31,
         price: 20,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Noodles"
     }, {
         _id: "32",
-        name: "Cooked Noodles",
+        name: "Noodles with Soup",
         image: food_32,
         price: 15,
         description: "Food provides essential nutrients for overall health and well-being",
